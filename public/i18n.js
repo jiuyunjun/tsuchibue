@@ -1,6 +1,7 @@
 // UI strings. Placeholders: {n} number, {s} on/off state, {key} key name, {name} file name.
 window.I18N = {
   en: {
+    noteOverview: "Note overview",
     _name: "English",
     title: "5-Hole Ocarina Fingering Maker",
     fullTitle: "5-Hole Ocarina Fingering",
@@ -25,6 +26,7 @@ window.I18N = {
     high: "High {n}", fileName: "ocarina-fingering", language: "Language", moreApps: "More from LazyDogLab"
   },
   "zh-CN": {
+    noteOverview: "查看音符概览",
     _name: "简体中文",
     title: "五孔土笛指法生成器",
     fullTitle: "五孔土笛指法",
@@ -49,6 +51,7 @@ window.I18N = {
     high: "高音{n}", fileName: "土笛指法", language: "语言", moreApps: "更多 LazyDogLab 作品"
   },
   "zh-TW": {
+    noteOverview: "查看音符概覽",
     _name: "繁體中文",
     title: "五孔土笛指法產生器",
     fullTitle: "五孔土笛指法",
@@ -73,6 +76,7 @@ window.I18N = {
     high: "高音{n}", fileName: "土笛指法", language: "語言", moreApps: "更多 LazyDogLab 作品"
   },
   ja: {
+    noteOverview: "音符の一覧",
     _name: "日本語",
     title: "5穴土笛 運指ジェネレーター",
     fullTitle: "5穴土笛 運指",
@@ -97,6 +101,7 @@ window.I18N = {
     high: "高音{n}", fileName: "土笛運指", language: "言語", moreApps: "LazyDogLab の他の作品"
   },
   ko: {
+    noteOverview: "음표 미리보기",
     _name: "한국어",
     title: "5구멍 오카리나 운지법 생성기",
     fullTitle: "5구멍 오카리나 운지법",
@@ -121,6 +126,7 @@ window.I18N = {
     high: "높은 {n}", fileName: "오카리나-운지법", language: "언어", moreApps: "LazyDogLab 더 보기"
   },
   es: {
+    noteOverview: "Vista de notas",
     _name: "Español",
     title: "Generador de digitaciones para ocarina de 5 agujeros",
     fullTitle: "Digitaciones de ocarina de 5 agujeros",
@@ -145,6 +151,7 @@ window.I18N = {
     high: "{n} aguda", fileName: "digitacion-ocarina", language: "Idioma", moreApps: "Más de LazyDogLab"
   },
   pt: {
+    noteOverview: "Visão geral das notas",
     _name: "Português",
     title: "Gerador de dedilhados para ocarina de 5 furos",
     fullTitle: "Dedilhados de ocarina de 5 furos",
@@ -169,6 +176,7 @@ window.I18N = {
     high: "{n} aguda", fileName: "dedilhado-ocarina", language: "Idioma", moreApps: "Mais do LazyDogLab"
   },
   fr: {
+    noteOverview: "Aperçu des notes",
     _name: "Français",
     title: "Générateur de doigtés pour ocarina à 5 trous",
     fullTitle: "Doigtés d’ocarina à 5 trous",
@@ -193,6 +201,7 @@ window.I18N = {
     high: "{n} aigu", fileName: "doigtes-ocarina", language: "Langue", moreApps: "Plus de LazyDogLab"
   },
   de: {
+    noteOverview: "Notenübersicht",
     _name: "Deutsch",
     title: "Griffbild-Generator für 5-Loch-Okarina",
     fullTitle: "Griffe für 5-Loch-Okarina",
@@ -217,6 +226,7 @@ window.I18N = {
     high: "Hohe {n}", fileName: "okarina-griffe", language: "Sprache", moreApps: "Mehr von LazyDogLab"
   },
   it: {
+    noteOverview: "Panoramica delle note",
     _name: "Italiano",
     title: "Generatore di diteggiature per ocarina a 5 fori",
     fullTitle: "Diteggiature per ocarina a 5 fori",
@@ -241,6 +251,7 @@ window.I18N = {
     high: "{n} acuto", fileName: "diteggiatura-ocarina", language: "Lingua", moreApps: "Altro da LazyDogLab"
   },
   ru: {
+    noteOverview: "Обзор нот",
     _name: "Русский",
     title: "Генератор аппликатуры для 5-дырочной окарины",
     fullTitle: "Аппликатура 5-дырочной окарины",
@@ -265,6 +276,7 @@ window.I18N = {
     high: "Высокая {n}", fileName: "okarina-applikatura", language: "Язык", moreApps: "Ещё от LazyDogLab"
   },
   ar: {
+    noteOverview: "نظرة عامة على النغمات",
     _name: "العربية", _dir: "rtl",
     title: "مولّد أصابع الأوكارينا ذات الثقوب الخمسة",
     fullTitle: "أصابع الأوكارينا ذات الثقوب الخمسة",
@@ -289,6 +301,7 @@ window.I18N = {
     high: "{n} عالية", fileName: "ocarina-fingering", language: "اللغة", moreApps: "المزيد من LazyDogLab"
   },
   hi: {
+    noteOverview: "स्वरों का अवलोकन",
     _name: "हिन्दी",
     title: "5-छेद ओकारिना फ़िंगरिंग जनरेटर",
     fullTitle: "5-छेद ओकारिना फ़िंगरिंग",
@@ -313,6 +326,7 @@ window.I18N = {
     high: "ऊँचा {n}", fileName: "ocarina-fingering", language: "भाषा", moreApps: "LazyDogLab के और ऐप"
   },
   id: {
+    noteOverview: "Ringkasan nada",
     _name: "Bahasa Indonesia",
     title: "Pembuat Penjarian Okarina 5 Lubang",
     fullTitle: "Penjarian Okarina 5 Lubang",
@@ -337,6 +351,7 @@ window.I18N = {
     high: "{n} tinggi", fileName: "penjarian-okarina", language: "Bahasa", moreApps: "Lainnya dari LazyDogLab"
   },
   vi: {
+    noteOverview: "Tổng quan nốt nhạc",
     _name: "Tiếng Việt",
     title: "Trình tạo thế bấm Ocarina 5 lỗ",
     fullTitle: "Thế bấm Ocarina 5 lỗ",
@@ -361,6 +376,7 @@ window.I18N = {
     high: "{n} cao", fileName: "the-bam-ocarina", language: "Ngôn ngữ", moreApps: "Thêm từ LazyDogLab"
   },
   th: {
+    noteOverview: "ภาพรวมโน้ต",
     _name: "ไทย",
     title: "เครื่องมือสร้างการวางนิ้วโอคาริน่า 5 รู",
     fullTitle: "การวางนิ้วโอคาริน่า 5 รู",
@@ -385,6 +401,7 @@ window.I18N = {
     high: "{n} สูง", fileName: "ocarina-fingering", language: "ภาษา", moreApps: "ผลงานอื่นจาก LazyDogLab"
   },
   tr: {
+    noteOverview: "Nota özeti",
     _name: "Türkçe",
     title: "5 Delikli Okarina Parmak Pozisyonu Oluşturucu",
     fullTitle: "5 Delikli Okarina Parmak Pozisyonları",
