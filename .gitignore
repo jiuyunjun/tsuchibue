@@ -1,0 +1,5 @@
+node_modules/
+.firebase/
+firebase-debug.log*
+*.zip
+五孔土笛指法生成器-离线版/
