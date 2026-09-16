@@ -22,7 +22,7 @@ window.I18N = {
     emptyTitle: "Your sequence is empty", emptyHint: "Pick a first note above",
     fullInfo: "Key of {key} · {n} rows", emptyRow: "Empty row",
     confirmClear: "Clear the whole fingering sequence? This cannot be undone.",
-    high: "High {n}", fileName: "ocarina-fingering", language: "Language"
+    high: "High {n}", fileName: "ocarina-fingering", language: "Language", moreApps: "More from LazyDogLab"
   },
   "zh-CN": {
     _name: "简体中文",
@@ -46,7 +46,7 @@ window.I18N = {
     emptyTitle: "序列还是空的", emptyHint: "从上方选择第一个音符",
     fullInfo: "{key}调 · {n}行", emptyRow: "空行",
     confirmClear: "确定要清空全部指法吗？此操作无法撤销。",
-    high: "高音{n}", fileName: "土笛指法", language: "语言"
+    high: "高音{n}", fileName: "土笛指法", language: "语言", moreApps: "更多 LazyDogLab 作品"
   },
   "zh-TW": {
     _name: "繁體中文",
@@ -70,7 +70,7 @@ window.I18N = {
     emptyTitle: "序列還是空的", emptyHint: "從上方選擇第一個音符",
     fullInfo: "{key}調 · {n}行", emptyRow: "空行",
     confirmClear: "確定要清空全部指法嗎？此操作無法復原。",
-    high: "高音{n}", fileName: "土笛指法", language: "語言"
+    high: "高音{n}", fileName: "土笛指法", language: "語言", moreApps: "更多 LazyDogLab 作品"
   },
   ja: {
     _name: "日本語",
@@ -94,7 +94,7 @@ window.I18N = {
     emptyTitle: "シーケンスは空です", emptyHint: "上から最初の音符を選んでください",
     fullInfo: "{key} キー · {n} 行", emptyRow: "空行",
     confirmClear: "運指をすべてクリアしますか？この操作は元に戻せません。",
-    high: "高音{n}", fileName: "土笛運指", language: "言語"
+    high: "高音{n}", fileName: "土笛運指", language: "言語", moreApps: "LazyDogLab の他の作品"
   },
   ko: {
     _name: "한국어",
@@ -118,7 +118,7 @@ window.I18N = {
     emptyTitle: "시퀀스가 비어 있습니다", emptyHint: "위에서 첫 음표를 선택하세요",
     fullInfo: "{key}조 · {n}줄", emptyRow: "빈 줄",
     confirmClear: "운지 시퀀스를 모두 지울까요? 되돌릴 수 없습니다.",
-    high: "높은 {n}", fileName: "오카리나-운지법", language: "언어"
+    high: "높은 {n}", fileName: "오카리나-운지법", language: "언어", moreApps: "LazyDogLab 더 보기"
   },
   es: {
     _name: "Español",
@@ -142,7 +142,7 @@ window.I18N = {
     emptyTitle: "La secuencia está vacía", emptyHint: "Elige una primera nota arriba",
     fullInfo: "Tonalidad {key} · {n} filas", emptyRow: "Fila vacía",
     confirmClear: "¿Borrar toda la secuencia de digitación? No se puede deshacer.",
-    high: "{n} aguda", fileName: "digitacion-ocarina", language: "Idioma"
+    high: "{n} aguda", fileName: "digitacion-ocarina", language: "Idioma", moreApps: "Más de LazyDogLab"
   },
   pt: {
     _name: "Português",
@@ -166,7 +166,7 @@ window.I18N = {
     emptyTitle: "A sequência está vazia", emptyHint: "Escolha a primeira nota acima",
     fullInfo: "Tom {key} · {n} linhas", emptyRow: "Linha vazia",
     confirmClear: "Limpar toda a sequência de dedilhado? Isso não pode ser desfeito.",
-    high: "{n} aguda", fileName: "dedilhado-ocarina", language: "Idioma"
+    high: "{n} aguda", fileName: "dedilhado-ocarina", language: "Idioma", moreApps: "Mais do LazyDogLab"
   },
   fr: {
     _name: "Français",
@@ -190,7 +190,7 @@ window.I18N = {
     emptyTitle: "La séquence est vide", emptyHint: "Choisissez une première note ci-dessus",
     fullInfo: "Tonalité {key} · {n} lignes", emptyRow: "Ligne vide",
     confirmClear: "Effacer toute la séquence de doigtés ? Action irréversible.",
-    high: "{n} aigu", fileName: "doigtes-ocarina", language: "Langue"
+    high: "{n} aigu", fileName: "doigtes-ocarina", language: "Langue", moreApps: "Plus de LazyDogLab"
   },
   de: {
     _name: "Deutsch",
@@ -214,7 +214,7 @@ window.I18N = {
     emptyTitle: "Die Folge ist leer", emptyHint: "Wähle oben eine erste Note",
     fullInfo: "Tonart {key} · {n} Zeilen", emptyRow: "Leere Zeile",
     confirmClear: "Gesamte Grifffolge löschen? Das kann nicht rückgängig gemacht werden.",
-    high: "Hohe {n}", fileName: "okarina-griffe", language: "Sprache"
+    high: "Hohe {n}", fileName: "okarina-griffe", language: "Sprache", moreApps: "Mehr von LazyDogLab"
   },
   it: {
     _name: "Italiano",
@@ -238,7 +238,7 @@ window.I18N = {
     emptyTitle: "La sequenza è vuota", emptyHint: "Scegli una prima nota qui sopra",
     fullInfo: "Tonalità {key} · {n} righe", emptyRow: "Riga vuota",
     confirmClear: "Cancellare l’intera sequenza? L’operazione non può essere annullata.",
-    high: "{n} acuto", fileName: "diteggiatura-ocarina", language: "Lingua"
+    high: "{n} acuto", fileName: "diteggiatura-ocarina", language: "Lingua", moreApps: "Altro da LazyDogLab"
   },
   ru: {
     _name: "Русский",
@@ -262,7 +262,7 @@ window.I18N = {
     emptyTitle: "Последовательность пуста", emptyHint: "Выберите первую ноту выше",
     fullInfo: "Тональность {key} · строк: {n}", emptyRow: "Пустая строка",
     confirmClear: "Очистить всю последовательность? Это действие нельзя отменить.",
-    high: "Высокая {n}", fileName: "okarina-applikatura", language: "Язык"
+    high: "Высокая {n}", fileName: "okarina-applikatura", language: "Язык", moreApps: "Ещё от LazyDogLab"
   },
   ar: {
     _name: "العربية", _dir: "rtl",
@@ -286,7 +286,7 @@ window.I18N = {
     emptyTitle: "التسلسل فارغ", emptyHint: "اختر النوتة الأولى من الأعلى",
     fullInfo: "مقام {key} · {n} صفوف", emptyRow: "صف فارغ",
     confirmClear: "هل تريد مسح تسلسل الأصابع بالكامل؟ لا يمكن التراجع عن ذلك.",
-    high: "{n} عالية", fileName: "ocarina-fingering", language: "اللغة"
+    high: "{n} عالية", fileName: "ocarina-fingering", language: "اللغة", moreApps: "المزيد من LazyDogLab"
   },
   hi: {
     _name: "हिन्दी",
@@ -310,7 +310,7 @@ window.I18N = {
     emptyTitle: "क्रम खाली है", emptyHint: "ऊपर से पहला स्वर चुनें",
     fullInfo: "{key} स्केल · {n} पंक्तियाँ", emptyRow: "खाली पंक्ति",
     confirmClear: "पूरा फ़िंगरिंग क्रम साफ़ करें? इसे पूर्ववत नहीं किया जा सकता।",
-    high: "ऊँचा {n}", fileName: "ocarina-fingering", language: "भाषा"
+    high: "ऊँचा {n}", fileName: "ocarina-fingering", language: "भाषा", moreApps: "LazyDogLab के और ऐप"
   },
   id: {
     _name: "Bahasa Indonesia",
@@ -334,7 +334,7 @@ window.I18N = {
     emptyTitle: "Urutan masih kosong", emptyHint: "Pilih not pertama di atas",
     fullInfo: "Nada {key} · {n} baris", emptyRow: "Baris kosong",
     confirmClear: "Hapus seluruh urutan penjarian? Tindakan ini tidak dapat diurungkan.",
-    high: "{n} tinggi", fileName: "penjarian-okarina", language: "Bahasa"
+    high: "{n} tinggi", fileName: "penjarian-okarina", language: "Bahasa", moreApps: "Lainnya dari LazyDogLab"
   },
   vi: {
     _name: "Tiếng Việt",
@@ -358,7 +358,7 @@ window.I18N = {
     emptyTitle: "Chuỗi đang trống", emptyHint: "Chọn nốt đầu tiên ở phía trên",
     fullInfo: "Giọng {key} · {n} dòng", emptyRow: "Dòng trống",
     confirmClear: "Xóa toàn bộ chuỗi thế bấm? Không thể hoàn tác.",
-    high: "{n} cao", fileName: "the-bam-ocarina", language: "Ngôn ngữ"
+    high: "{n} cao", fileName: "the-bam-ocarina", language: "Ngôn ngữ", moreApps: "Thêm từ LazyDogLab"
   },
   th: {
     _name: "ไทย",
@@ -382,7 +382,7 @@ window.I18N = {
     emptyTitle: "ลำดับยังว่างอยู่", emptyHint: "เลือกโน้ตตัวแรกจากด้านบน",
     fullInfo: "คีย์ {key} · {n} แถว", emptyRow: "แถวว่าง",
     confirmClear: "ล้างลำดับการวางนิ้วทั้งหมดหรือไม่? ไม่สามารถย้อนกลับได้",
-    high: "{n} สูง", fileName: "ocarina-fingering", language: "ภาษา"
+    high: "{n} สูง", fileName: "ocarina-fingering", language: "ภาษา", moreApps: "ผลงานอื่นจาก LazyDogLab"
   },
   tr: {
     _name: "Türkçe",
@@ -406,6 +406,6 @@ window.I18N = {
     emptyTitle: "Dizi boş", emptyHint: "Yukarıdan ilk notayı seçin",
     fullInfo: "{key} tonu · {n} satır", emptyRow: "Boş satır",
     confirmClear: "Tüm parmak pozisyonu dizisi temizlensin mi? Bu işlem geri alınamaz.",
-    high: "İnce {n}", fileName: "okarina-parmak-pozisyonu", language: "Dil"
+    high: "İnce {n}", fileName: "okarina-parmak-pozisyonu", language: "Dil", moreApps: "LazyDogLab'den daha fazlası"
   }
 };
